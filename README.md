@@ -112,12 +112,4 @@ El sistema utiliza:
 - Control de acceso mediante roles
 
 ---
-# 📂 Documentación
 
-La carpeta **docs** contiene:
-
-- Modelo Relacional
-- Plan de Pruebas
-- Matriz de Riesgos
-- Plan de Seguridad
-- Evidencias del Proyecto
