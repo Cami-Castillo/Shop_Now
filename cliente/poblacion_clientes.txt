@@ -1,0 +1,22 @@
+
+INSERT INTO clientes (nombre, correo, password, direccion) VALUES 
+('Juan Pérez', 'juan.perez@email.com', 'pass123', 'Calle Mayor 12, Madrid'),
+('María García', 'maria.garcia@email.com', 'mgarcia2024', 'Av. de la Constitución 5, Sevilla'),
+('Carlos Rodríguez', 'carlos.rod@email.com', 'carlos789', 'Plaza España 8, Barcelona'),
+('Ana Martínez', 'ana.mtz@email.com', 'ana.pass', 'Calle Real 22, Valencia'),
+('Luis Hernández', 'luis.hdez@email.com', 'luis_2024', 'Calle Nueva 4, Málaga'),
+('Elena Gómez', 'elena.gomez@email.com', 'elena123', 'Paseo del Prado 15, Madrid'),
+('Javier López', 'javi.lopez@email.com', 'javier.pwd', 'Calle San Juan 3, Zaragoza'),
+('Lucía Sánchez', 'lucia.sanchez@email.com', 'lucia_secret', 'Gran Vía 45, Bilbao'),
+('Pedro Díaz', 'pedro.diaz@email.com', 'diaz777', 'Calle de Alcalá 120, Madrid'),
+('Sofía Moreno', 'sofia.moreno@email.com', 'sofia.99', 'Calle Betis 14, Sevilla'),
+('Diego Ruiz', 'diego.ruiz@email.com', 'diego_pass', 'Rambla Catalunya 32, Barcelona'),
+('Carmen Castro', 'carmen.castro@email.com', 'carmencita', 'Calle Sierpes 2, Sevilla'),
+('Miguel Torres', 'miguel.torres@email.com', 'mike_123', 'Plaza del Pilar 1, Zaragoza'),
+('Isabel Navarro', 'isabel.nav@email.com', 'isa_2024', 'Calle Larios 8, Málaga'),
+('Fernando Morales', 'fher.morales@email.com', 'fher_pwd', 'Calle Colón 12, Valencia'),
+('Rosa Ortega', 'rosa.ortega@email.com', 'rosa.pass', 'Paseo de Gracia 10, Barcelona'),
+('David Serrano', 'david.serrano@email.com', 'david_88', 'Calle Fuencarral 50, Madrid'),
+('Patricia Marín', 'patri.marin@email.com', 'patricia_s', 'Plaza Nueva 7, Granada'),
+('Roberto Jiménez', 'r.jimenez@email.com', 'rob_2024', 'Calle Carretería 18, Cuenca'),
+('Beatriz Blanco', 'bea.blanco@email.com', 'bblanco123', 'Calle de la Paz 9, Vitoria');
