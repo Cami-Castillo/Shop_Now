@@ -6,14 +6,49 @@ ShopNow es una aplicación desarrollada utilizando arquitectura de microservicio
 
 El sistema permite administrar clientes y pedidos mediante APIs REST protegidas con autenticación JWT.
 
-El proyecto fue desarrollado con fines académicos para la asignatura de Desarrollo Full Stack de Duoc UC.
+El proyecto fue desarrollado con fines académicos para la asignatura de Desarrollo Full Stack I de Duoc UC.
 
-Autores: 
+# 👥 Integrantes
 
-Camila Castillo
-Alejandrina Farias
-Benjamin Romero
-Anthony Romero
+- Camila Castillo
+- Alejandrina Farías
+- Anthony Romero
+- Benjamín Romero
+
+---
+
+# 📁 Estructura del Proyecto
+
+```
+ShopNow
+│
+├── cliente/
+│
+├── pedido/
+│
+├── docs/
+│   ├── Modelo Relacional
+│   ├── Plan de Pruebas
+│   ├── Matriz de Riesgos
+│   ├── Plan de Seguridad
+│   └── Documentación
+│
+└── README.md
+```
+
+---
+
+# 📌 Características
+
+- Arquitectura basada en microservicios.
+- CRUD completo de clientes.
+- CRUD completo de pedidos.
+- Autenticación y autorización mediante JWT.
+- Comunicación entre microservicios.
+- Persistencia de datos con Spring Data JPA.
+- Documentación automática con Swagger.
+- Validación de datos.
+- Pruebas unitarias utilizando JUnit y Mockito.
 
 ---
 
@@ -77,3 +112,12 @@ El sistema utiliza:
 - Control de acceso mediante roles
 
 ---
+# 📂 Documentación
+
+La carpeta **docs** contiene:
+
+- Modelo Relacional
+- Plan de Pruebas
+- Matriz de Riesgos
+- Plan de Seguridad
+- Evidencias del Proyecto
